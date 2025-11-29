@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Registray
-- 👀 I’m interested in codind
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate with some ios Devs
 - 📫 How to reach me @_oliverski
